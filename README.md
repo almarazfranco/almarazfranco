@@ -1,4 +1,5 @@
-## Bienvenidos a mi github, puedes ponerte en contacto ante cualquier duda!
+## Bienvenidos a mi github!
+Mi nombre es Franco, soy de Argentina y soy Front-end Developer
 <!-- <div align="center">
   <a href="https://github.com/almarazfranco">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=almarazfranco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
