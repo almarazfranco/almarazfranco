@@ -1,12 +1,4 @@
-## Bienvenidos a mi github!
-Hello, my name is Franco and I am a Front-End Developer.
-I am passionate and committed to personal and professional development.
-professional development.
-I have a flexible mindset, which allows me to adapt quickly to challenges and changes in the work environment.
-I like to apply my knowledge in proposals that contribute to the development of the work group.
-I have good communication skills that allow me to work effectively in a team.
-I have experience in project leadership, implementing methodologies focused on best practices that ensure quality and compliance with development requirements and deadlines.
-I stand out for my critical thinking and my ability to apply effective solutions and improvements.
+## Hello World!
 <!-- <div align="center">
   <a href="https://github.com/almarazfranco">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=almarazfranco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
